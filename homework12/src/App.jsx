@@ -4,6 +4,7 @@ import Home from './pages/Home';
 import Projects from './pages/Projects';
 import Hobby from './pages/Hobby';
 import HobbyDetail from './pages/Hobby';
+import './App.css';
 
 const App = () => {
   return (
